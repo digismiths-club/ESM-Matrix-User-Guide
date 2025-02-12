@@ -5,8 +5,8 @@ function Features() {
     <div className='px-2 xl:px-24 w-screen mt-5 xl:mt-0'>
         <div className='bg-[#f0f3fa] xl:px-6 xl:py-10 rounded-md w-full grid grid-cols-2 xl:grid-cols-4 justify-evenly space-x-4'>
             <div className='min-h-60 hover:bg-white cursor-pointer rounded-md flex flex-col p-5'>
-                <img src="/zoho-widget-user-guide/auto_completion.png" alt="feature1"  height={80} width={80} className='h-14 w-14 xl:h-24 xl:w-24'/>
-                <div className='text-lg xl:text-2xl mt-4'>Auto Completion</div>
+                <img src="/zoho-widget-user-guide/Decision-Making.png" alt="feature1"  height={80} width={80} className='h-14 w-14 xl:h-24 xl:w-24'/>
+                <div className='text-lg xl:text-2xl mt-4'>Decision Making</div>
                 <div className='font-light xl:text-sm text-xs mt-1'>Instantly fill in address fields as you type, powered by Google’s reliable address suggestions. Say goodbye to manual entry and reduce errors.</div>
             </div>
             <div className='min-h-60 hover:bg-white cursor-pointer rounded-md flex flex-col p-5'>
