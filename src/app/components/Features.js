@@ -7,7 +7,7 @@ function Features() {
             <div className='min-h-60 hover:bg-white cursor-pointer rounded-md flex flex-col p-5'>
                 <img src="/zoho-widget-user-guide/Decision-Making.png" alt="feature1"  height={80} width={80} className='h-14 w-14 xl:h-24 xl:w-24'/>
                 <div className='text-lg xl:text-2xl mt-4'>Decision Making</div>
-                <div className='font-light xl:text-sm text-xs mt-1'>Instantly fill in address fields as you type, powered by Google’s reliable address suggestions. Say goodbye to manual entry and reduce errors.</div>
+                <div className='font-light xl:text-sm text-xs mt-1'>Classify tasks by urgency and importance, prioritize effectively, delegate smartly, and track progress for better time management and productivity.</div>
             </div>
             <div className='min-h-60 hover:bg-white cursor-pointer rounded-md flex flex-col p-5'>
                 <img src="/zoho-widget-user-guide/easy_to_use.png" alt="feature1"  height={80} width={80} className='h-14 w-14 xl:h-24 xl:w-24'/>

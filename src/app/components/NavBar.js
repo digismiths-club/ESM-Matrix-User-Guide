@@ -19,14 +19,14 @@ function NavBar() {
         }}>
           <span className='text-xs xl:text-base'>Usage</span>
         </Link>
-        {/* <Link
-          href="/GoogleApi" 
+        <Link
+          href="/Features" 
           className={`hover:underline hover:font-normal ${nav==1?"underline font-normal":""}`} 
           onClick={()=>{
             setNav(1)
           }}>
-          <span className='text-xs xl:text-base'>Google API</span>
-        </Link> */}
+          <span className='text-xs xl:text-base'>Features</span>
+        </Link>
         <Link 
           href="/Bug" 
           className={`hover:underline hover:font-normal ${nav==2?"underline font-normal":""}`} 
