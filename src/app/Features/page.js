@@ -25,7 +25,7 @@ function page() {
     },
     {
       title: `The task is now assigned to another user. Priority & Status remain unchanged`,
-      url: "/ESM-Matrix-User-Guidee/feature6.png"
+      url: "/ESM-Matrix-User-Guide/feature6.png"
     },
     {
       title: `Dragging to "Schedule" – Task is important but not urgent.`,
