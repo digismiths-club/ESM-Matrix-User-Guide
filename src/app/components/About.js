@@ -17,7 +17,7 @@ function  About() {
             </button>
           </form>
         </div>
-        <img src="/zoho-widget-user-guide/logo.svg" className='h-44 w-44 xl:h-96 xl:w-96' alt='logo' width={500} height={500}/>
+        <img src="/ESM-Matrix-User-Guide/logo.svg" className='h-44 w-44 xl:h-96 xl:w-96' alt='logo' width={500} height={500}/>
       </div>
     </>
   )

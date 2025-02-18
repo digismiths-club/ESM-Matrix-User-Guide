@@ -1,31 +1,31 @@
 {
     "imgArr":[
         {
-          "url": "/zoho-widget-user-guide/1.jpg",
+          "url": "/ESM-Matrix-User-Guide/1.jpg",
           "title": "Sign in and install our extension from zoho marketplace."
         },
         {
-          "url": "/zoho-widget-user-guide/2.jpg",
+          "url": "/ESM-Matrix-User-Guide/2.jpg",
           "title": "Create and enter your google maps API key."
         },
         {
-          "url": "/zoho-widget-user-guide/4.jpg",
+          "url": "/ESM-Matrix-User-Guide/4.jpg",
           "title": "Our widget works on following modules: Leads, Accounts, Contacts, Quotes, Invoices, Sales Orders, Purchase Orders. Create/Edit on these modules, click on Google Autocomplete button to start the widget."
         },
         {
-          "url": "/zoho-widget-user-guide/5.jpg",
+          "url": "/ESM-Matrix-User-Guide/5.jpg",
           "title": "Enter partial address & suggestions would be displayed."
         },
         {
-          "url": "/zoho-widget-user-guide/6.jpg",
+          "url": "/ESM-Matrix-User-Guide/6.jpg",
           "title": "Select a Mailing Address, Other Address or both on Contact module. The address will map accordingly."
         },
         {
-          "url": "/zoho-widget-user-guide/7.jpg",
+          "url": "/ESM-Matrix-User-Guide/7.jpg",
           "title": "Select a Shiping Address, Billing Address or both on Account, Quotes, Invoices, Sales Orders, Purchase Orders module. The address will map accordingly."
         },
         {
-          "url": "/zoho-widget-user-guide/8.jpg",
+          "url": "/ESM-Matrix-User-Guide/8.jpg",
           "title": "Changes would be reflected after setting the location."
         }
       ]

@@ -5,19 +5,19 @@ function page() {
   const cards= [
     {
       title: "Select a Project (or select an existing one, if you have one)",
-      url: "/zoho-widget-user-guide/final1.png"
+      url: "/ESM-Matrix-User-Guide/final1.png"
     },
     {
       title: "Create a New Project (or select an existing one, if you have one)",
-      url: "/zoho-widget-user-guide/final2.png"
+      url: "/ESM-Matrix-User-Guide/final2.png"
     },
     {
       title: "Give your project a name (perhaps based on your websites name)",
-      url: "/zoho-widget-user-guide/final3.png"
+      url: "/ESM-Matrix-User-Guide/final3.png"
     },
     {
       title: "Select the Project you just created. You can do this by the notification at the top right:",
-      url: "/zoho-widget-user-guide/final4.png"
+      url: "/ESM-Matrix-User-Guide/final4.png"
     },
   ]
 
