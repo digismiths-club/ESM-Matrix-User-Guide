@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: "export",
-    basePath: "/zoho-widget-user-guide"
+    basePath: "/ESM-Matrix-User-Guide"
 };
 
 export default nextConfig;
