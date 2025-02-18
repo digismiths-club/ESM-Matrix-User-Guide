@@ -9,7 +9,7 @@ function LandingPage() {
     <>
       <main className="flex min-h-screen flex-col items-center overflow-x-hidden gap-6">
         <About/>
-        {/* <AwardBanner/> */}
+        <AwardBanner/>
         <Features/>
         <Faqs/>
       </main>
