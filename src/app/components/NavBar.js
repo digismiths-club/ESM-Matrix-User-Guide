@@ -12,20 +12,20 @@ function NavBar() {
         </div>
       </a>
       <div className='space-x-5 font-light '>
-        <Link
+        {/* <Link
           href="/Steps"
           className={`hover:underline hover:font-normal ${nav==0?"underline font-normal":""}`} onClick={()=>{
           setNav(0)
         }}>
-          <span className='text-xs xl:text-base'>Usage</span>
-        </Link>
+          <span className='text-xs xl:text-base'>Installation</span>
+        </Link> */}
         <Link
           href="/Features" 
           className={`hover:underline hover:font-normal ${nav==1?"underline font-normal":""}`} 
           onClick={()=>{
             setNav(1)
           }}>
-          <span className='text-xs xl:text-base'>Features</span>
+          <span className='text-xs xl:text-base'>Usage</span>
         </Link>
         <Link 
           href="/Bug" 
