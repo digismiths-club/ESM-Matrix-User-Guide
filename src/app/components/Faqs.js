@@ -9,10 +9,6 @@ function Faqs() {
           ans: "To install, simply visit the Zoho Marketplace, search for Eisenhower Matrix Widget, and click Install. Follow the prompts to integrate it into your Zoho CRM. ",
         },
         {
-          ques: "Is the widget really free?",
-          ans: "Yes! The Eisenhower Matrix Widget is completely free to use. There are no hidden fees or in-app purchases. ",
-        },
-        {
           ques: "Does the widget work with all Zoho CRM modules?",
           ans: "Yes, the widget is designed to work seamlessly across multiple Zoho CRM modules, including Leads, Contacts, Accounts, and more.",
         },

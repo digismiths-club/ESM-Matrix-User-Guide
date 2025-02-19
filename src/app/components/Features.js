@@ -15,9 +15,9 @@ function Features() {
                 <div className='font-light xl:text-sm text-xs mt-1'>Simple setup and seamless integration into Zoho CRM. No complex configurations—just install, and it works right out of the box. </div>
             </div>
             <div className='min-h-60 hover:bg-white cursor-pointer rounded-md flex flex-col p-5'>
-                <img src="/ESM-Matrix-User-Guide/plugin.png" alt="feature1"  height={80} width={80} className='h-14 w-14 xl:h-24 xl:w-24'/>
-                <div className='text-lg xl:text-2xl mt-4'>Free Extension</div>
-                <div className='font-light xl:text-sm text-xs mt-1'>Completely free to use! Unlike other paid tools, this widget provides full functionality at no cost to you. </div>
+                <img src="/ESM-Matrix-User-Guide/unfinished_task.png" alt="feature1"  height={80} width={80} className='h-14 w-14 xl:h-24 xl:w-24'/>
+                <div className='text-lg xl:text-2xl mt-4'>Unfinished Task Management</div>
+                <div className='font-light xl:text-sm text-xs mt-1'> Easily identify and manage unfinished tasks, ensuring no important work is overlooked. Stay organized and maintain productivity effortlessly.</div>
             </div>
             <div className='min-h-60 hover:bg-white cursor-pointer rounded-md flex flex-col p-5'>
                 <img src="/ESM-Matrix-User-Guide/productivity.png" alt="feature1"  height={80} width={80} className='h-14 w-14 xl:h-24 xl:w-24'/>

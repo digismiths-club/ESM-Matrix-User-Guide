@@ -11,7 +11,7 @@ function AwardBanner() {
             >
             <div className='flex-col hidden md:flex'>
               <span className='text-lg'>This extension secured the top spot in ZDC Hackathon 2024!</span>
-              <span className='text-sm font-light'>Winner in category at ZDC Hackathon 2024!</span>
+              <span className='text-sm font-light'>Winner in extensions category at ZDC Hackathon 2024!</span>
             </div>
             <img src='/ESM-Matrix-User-Guide/trophy-bg-removed.gif' className='h-32' alt=''/>
             <div className='md:hidden flex flex-col py-2'>
