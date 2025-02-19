@@ -20,7 +20,7 @@ function NavBar() {
           <span className='text-xs xl:text-base'>Installation</span>
         </Link> */}
         <Link
-          href="/Features" 
+          href="/Usage" 
           className={`hover:underline hover:font-normal ${nav==1?"underline font-normal":""}`} 
           onClick={()=>{
             setNav(1)
