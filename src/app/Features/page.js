@@ -4,7 +4,7 @@ import GoogleMapsCard from "../components/GoogleMapsCard";
 function page() {
   const cards= [
     {
-      title: `Dragging Tasks – Users can drag tasks into different sections of the ESM Task Manager.`,
+      title: `Dragging Tasks – Users can drag tasks into Do it, Delegate it, Schedule it and in Defer it matrix of the ESM Task Manager.`,
       url: "/ESM-Matrix-User-Guide/feature1.png"
     },
     {
