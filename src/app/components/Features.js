@@ -16,7 +16,7 @@ function Features() {
             </div>
             <div className='min-h-60 hover:bg-white cursor-pointer rounded-md flex flex-col p-5'>
                 <img src="/ESM-Matrix-User-Guide/unfinished_task.png" alt="feature1"  height={80} width={80} className='h-14 w-14 xl:h-24 xl:w-24'/>
-                <div className='text-lg xl:text-2xl mt-4'>Unfinished Task Management</div>
+                <div className='text-lg xl:text-2xl mt-4'>Task Management</div>
                 <div className='font-light xl:text-sm text-xs mt-1'> Easily identify and manage unfinished tasks, ensuring no important work is overlooked. Stay organized and maintain productivity effortlessly.</div>
             </div>
             <div className='min-h-60 hover:bg-white cursor-pointer rounded-md flex flex-col p-5'>
