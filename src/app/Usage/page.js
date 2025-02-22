@@ -4,41 +4,41 @@ import GoogleMapsCard from "../components/GoogleMapsCard";
 function page() {
   const cards= [
     {
-      title: `Dragging Tasks – Users can drag tasks into Do it, Delegate it, Schedule it and in Defer it matrix of the ESM Task Manager.`,
+      title: `Go to ESM Task Manager in your navbar & select it to open.`,
       url: "/ESM-Matrix-User-Guide/feature1.png"
     },
     {
-      title: `Dragging to "Do It" – Task moved to "Do It" means it's urgent and important.`,
+      title: `Dragging Tasks – Users can drag tasks into Do it, Delegate it, Schedule it and in Defer it matrix of the ESM Task Manager. `,
       url: "/ESM-Matrix-User-Guide/feature2.png"
     },
     {
-      title: `Dropping in "Do It" – Priority → Critical, Status → In Progress, Due Date → Today.`,
+      title: `Dragging to "Do It" – Task moved to "Do It" means it's urgent and important.`,
       url: "/ESM-Matrix-User-Guide/feature3.png"
     },
     {
-      title: `Dragging to "Delegate" – Assign task to another user only Admin can delegate tasks.`,
+      title: `Dropping in "Do It" – Priority → Critical, Status → In Progress, Due Date → Today.`,
       url: "/ESM-Matrix-User-Guide/feature4.png"
-    },
+    }, 
     {
-      title: `Dropping in "Delegate" – A pop-up appears to change the user, due date, and add notes. Clicking Delegate assigns the task.`,
+      title: `Dragging to "Schedule" – Task is important but not urgent. Scheduled Task Behavior – Status → Scheduled, Priority → Low.`,
       url: "/ESM-Matrix-User-Guide/feature5.png"
     },
     {
-      title: `The task is now assigned to another user. Priority & Status remain unchanged`,
+      title: `Dropping in "Schedule" – A pop-up appears to change the due date.`,
       url: "/ESM-Matrix-User-Guide/feature6.png"
     },
     {
-      title: `Dragging to "Schedule" – Task is important but not urgent.`,
+      title: `Dragging to "Delegate" – Assign task to another user only Admin can delegate tasks.`,
       url: "/ESM-Matrix-User-Guide/feature7.png"
     },
     {
-      title: `Dropping in "Schedule" – A pop-up appears to change the due date.`,
-      url: "/ESM-Matrix-User-Guide/feature8.png"
-    },
-    {
-      title: `Scheduled Task Behavior – Status → Scheduled, Priority → Low.`,
+      title: `Dropping in "Delegate" – A pop-up appears to change the user, due date, and add notes. Clicking Delegate assigns the task.`,
       url: "/ESM-Matrix-User-Guide/feature9.png"
     },
+    // {
+    //   title: ``,
+    //   url: "/ESM-Matrix-User-Guide/feature9.png"
+    // },
     {
       title: `Dragging to "Defer It" – Task is neither urgent nor important.`,
       url: "/ESM-Matrix-User-Guide/feature10.png"
