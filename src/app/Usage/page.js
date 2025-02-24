@@ -4,7 +4,7 @@ import GoogleMapsCard from "../components/GoogleMapsCard";
 function page() {
   const cards= [
     {
-      title:`Read and check the box to agree to the Terms of Service.`,
+      title:`Read and check the box to agree to the Terms of Service and Authorize the extension to access and process your data by checking the respective box.`,
       url:`/ESM-Matrix-User-Guide/usage-step1.png`
     },
     {
