@@ -25,6 +25,19 @@ function Faq({element}) {
                     <div className='text-xs md:text-sm xl:text-sm'>
                         {element.ans}
                     </div>
+                    {
+                        element.points && <ul className='faq-points px-4 text-xs md:text-sm space-y-2'>
+                        {
+                            element.points.map((point, index)=>{
+                                return (
+                                    <li key={index}>
+                                        {point}
+                                    </li>
+                                )
+                            })   
+                        }
+                    </ul>
+                    }
                 </div>
             }
         </div>

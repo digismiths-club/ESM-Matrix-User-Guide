@@ -1,65 +1,8 @@
 import React from 'react'
 import GoogleMapsCard from "../components/GoogleMapsCard";
+import {cards} from "../../Data"
 
 function page() {
-  const cards= [
-    {
-      title:`Read and check the box to agree to the Terms of Service and Authorize the extension to access and process your data by checking the respective box.`,
-      url:`/ESM-Matrix-User-Guide/usage-step1.png`
-    },
-    {
-      title:`Select Install for all users to ensure the tool is accessible to everyone, enabling effective task sharing and collaboration.`,
-      url:`/ESM-Matrix-User-Guide/usage-step2.png`
-    },
-    {
-      title: `Go to ESM Task Manager in your navbar & select it to open.`,
-      url: "/ESM-Matrix-User-Guide/feature1.png"
-    },
-    {
-      title: `Dragging Tasks – Users can drag tasks into Do it, Delegate it, Schedule it and in Defer it matrix of the ESM Task Manager. `,
-      url: "/ESM-Matrix-User-Guide/feature2.png"
-    },
-    {
-      title: `Dragging to "Do It" – Task moved to "Do It" means it's urgent and important.`,
-      url: "/ESM-Matrix-User-Guide/feature3.png"
-    },
-    {
-      title: `Dropping in "Do It" – Priority → Critical, Status → In Progress, Due Date → Today.`,
-      url: "/ESM-Matrix-User-Guide/feature4.png"
-    }, 
-    {
-      title: `Dragging to "Schedule" – Task is important but not urgent. Scheduled Task Behavior – Status → Scheduled, Priority → Low.`,
-      url: "/ESM-Matrix-User-Guide/feature5.png"
-    },
-    {
-      title: `Dropping in "Schedule" – A pop-up appears to change the due date.`,
-      url: "/ESM-Matrix-User-Guide/feature6.png"
-    },
-    {
-      title: `Dragging to "Delegate" – Assign task to another user only Admin can delegate tasks.`,
-      url: "/ESM-Matrix-User-Guide/feature7.png"
-    },
-    {
-      title: `Dropping in "Delegate" – A pop-up appears to change the user, due date, and add notes. Clicking Delegate assigns the task.`,
-      url: "/ESM-Matrix-User-Guide/feature9.png"
-    },
-    // {
-    //   title: ``,
-    //   url: "/ESM-Matrix-User-Guide/feature9.png"
-    // },
-    {
-      title: `Dragging to "Defer It" – Task is neither urgent nor important.`,
-      url: "/ESM-Matrix-User-Guide/feature10.png"
-    },
-    {
-      title: `Dropping in "Defer It" – Status → Deferred, Priority → Lowest, Due Date → Null.`,
-      url: "/ESM-Matrix-User-Guide/feature11.png"
-    },
-    {
-      title: `And that’s how ALL your tasks will look!`,
-      url: "/ESM-Matrix-User-Guide/feature12.png"
-    }
-  ]
 
   return (
     <div className="w-full md:p-10 p-0 bg-gray-50 flex flex-col items-center justify-center border-solid md:border-2 ">
