@@ -4,6 +4,14 @@ import GoogleMapsCard from "../components/GoogleMapsCard";
 function page() {
   const cards= [
     {
+      title:`Read and check the box to agree to the Terms of Service.`,
+      url:`/ESM-Matrix-User-Guide/usage-step-1.png`
+    },
+    {
+      title:`Select Install for all users to ensure the tool is accessible to everyone, enabling effective task sharing and collaboration.`,
+      url:`/ESM-Matrix-User-Guide/usage-step-2.png`
+    },
+    {
       title: `Go to ESM Task Manager in your navbar & select it to open.`,
       url: "/ESM-Matrix-User-Guide/feature1.png"
     },
