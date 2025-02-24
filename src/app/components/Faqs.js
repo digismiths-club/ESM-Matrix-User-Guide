@@ -11,33 +11,33 @@ function Faqs() {
     {
       ques: "How does the Eisenhower Matrix work?",
       ans: `The Eisenhower Matrix categorizes tasks based on urgency and importance: 
-              \n&nbsp;-Do It: Urgent and important tasks that need immediate attention. 
-              \n&nbsp;-Schedule It: Important but not urgent tasks that require strategic planning. 
-              \n&nbsp;-Delegate It: Tasks that are important but can be assigned to someone else. 
-              \n&nbsp;-Defer It: Low-priority tasks or distractions that can be postponed or done in moderation. 
-           \nThis structured approach helps users focus on high-priority tasks while managing less critical ones efficiently. `,
+              <br>&nbsp;- Do It: Urgent and important tasks that need immediate attention. 
+              <br>&nbsp;- Schedule It: Important but not urgent tasks that require strategic planning. 
+              <br>&nbsp;- Delegate It: Tasks that are important but can be assigned to someone else. 
+              <br>&nbsp;- Defer It: Low-priority tasks or distractions that can be postponed or done in moderation. 
+           <br>This structured approach helps users focus on high-priority tasks while managing less critical ones efficiently. `,
     },
     {
       ques: "What are the key features of this extension?",
-      ans: `-Drag-and-Drop Task Management: Easily move tasks between categories with an intuitive interface. \n
+      ans: `- Drag-and-Drop Task Management: Easily move tasks between categories with an intuitive interface. <br>
 
-            -Real-Time Task Visualization: Get a clear, color-coded view of tasks for effective decision-making. \n
+            - Real-Time Task Visualization: Get a clear, color-coded view of tasks for effective decision-making. <br>
 
-            -Seamless Integration with Zoho CRM: Manage tasks within your existing CRM workflow. \n
+            - Seamless Integration with Zoho CRM: Manage tasks within your existing CRM workflow. <br>
 
-            -Task Ownership Delegation: Assign tasks to team members with the appropriate permissions. \n
+            - Task Ownership Delegation: Assign tasks to team members with the appropriate permissions. <br>
 
-            -Automated Priority Updates: Task attributes like priority, status, and due date are automatically updated based on the category selected. `,
+            - Automated Priority Updates: Task attributes like priority, status, and due date are automatically updated based on the category selected. `,
     },
     {
       ques: "How are task attributes updated when moved between categories?",
-      ans: `-Do It: Priority is set to "Critical," status remains "In Progress," and the due date defaults to today's date. \n
+      ans: `- Do It: Priority is set to "Critical," status remains "In Progress," and the due date defaults to today's date. <br>
 
-            -Schedule It: Priority is marked as "Low," the status changes to "Scheduled," and the due date is set by the user. \n
+            - Schedule It: Priority is marked as "Low," the status changes to "Scheduled," and the due date is set by the user. <br>
 
-            -Delegate It: Priority and status remain as is, but the task is reassigned to another user. \n
+            - Delegate It: Priority and status remain as is, but the task is reassigned to another user. <br>
 
-            -Defer It: Priority is set to "Lowest," status changes to "Deferred," and the due date is void.`,
+            - Defer It: Priority is set to "Lowest," status changes to "Deferred," and the due date is void.`,
     },
     {
       ques: "Who can delegate tasks using this extension?",
