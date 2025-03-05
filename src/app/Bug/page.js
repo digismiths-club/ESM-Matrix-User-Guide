@@ -13,7 +13,7 @@ function page() {
           border: "none",
           padding: "0px"
         }}
-        src="https://forms.zohopublic.in/digismiths/form/SupportForm/formperma/R50JzmX1KHWdBzXEIbLs7GAcTvdUtKJ_3okxt7vcLBw"
+        src="https://forms.zohopublic.in/digismiths/form/Reportabug/formperma/7KKiFlM6spYYoU2gKm6HIu53oBo9OEAwpSHTvCyslN4"
       ></iframe>
       </div>
     </>
